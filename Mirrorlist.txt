@@ -1,0 +1,4 @@
+ArchLinux - /etc/pacman.d/mirrorlist
+
+https://archlinux.org/mirrors/
+https://archlinux.org/mirrors/status/

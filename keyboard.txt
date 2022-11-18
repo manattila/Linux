@@ -1,0 +1,10 @@
+#### Change Keyboard Layout
+
+loadkeys be-latin1
+
+setxkbmap be
+
+#### Check Files
+
+/etc/locale.conf
+/etc/locale.gen

@@ -1,0 +1,13 @@
+#### list disk command-line / Delete / Create Partition
+
+lsblk
+fdisk -l
+cfdisk
+
+wipefs
+
+#### Format Partition
+
+mkfs.ext4 - mkfs.brtfs
+mkswap (create swap partition)
+swapon (activate swap partition).
